@@ -1,0 +1,30 @@
+{
+  "splats": [
+    {
+      "filename": "mid-century-modern-cartoon-living-room.spz",
+      "transform": {
+        "translation": [
+          0,
+          1.4569095373153687,
+          0
+        ],
+        "rotation": [
+          180,
+          0,
+          0
+        ],
+        "quaternion": [
+          1,
+          0,
+          0,
+          6.123233995736765e-17
+        ],
+        "scale": 2.4120492935180664
+      }
+    }
+  ],
+  "metadata": {
+    "exportTimestamp": "2026-10-07T01:18:43.328Z",
+    "spzExportVersion": 3
+  }
+}
